@@ -48,3 +48,5 @@ body {
 .card a:hover {
     color: #457b9d;
 }
+HTML
+<p>Check out more details on <a href="https://www.example.com" target="_blank">our website</a>.</p>
